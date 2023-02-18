@@ -26,7 +26,7 @@
 
 ### Bios Setup
 
-| Name | Option | |
+| Name | Option |
 | Above 4G Decoding | Enabled |
 | Re-Size BAR Support | Enabled |
 | VT-d | Enabled |
